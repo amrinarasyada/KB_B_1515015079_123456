@@ -1,0 +1,39 @@
+POSTTEST2 Artificial Intelegence
+Nama : Amrina Rasyada
+NIM  : 1515015079
+
+Ada beberapa keyword dari prolog berdasarkan sumber yang telah didapatkan dari internet. Yaitu, seperti berikut :
+
+1. Implement dan end Implement
+
+Di antara semua keyword yang ada di prolog, keyword ini satu-satunya keyword yang ada sebagai pasangan. keyword ini akan menempatkan kode tertulis di antara keduanya. dan kode tersebut akan berfungsi sebagai kode milik suatu kelas. Setelah melihat pengimplementasiannya dalam suatu program visual prolog yang ada, sepertinya keyword ini kurang lebih berfungsi sama dengan keyword class yang ada di netbeans. Ataupun include stdio conio dengan getch yang ada di borland c.
+
+2. Open. 
+
+Kata kunci open ini digunakan untuk memeperluas hal-hal/visibilitas yang ada dalam lingkup kelas. dimana dalam pengimplementasiannya keyword ini digunakan hanya setelah menerapkan kata kunci. 
+
+3. Constant/Konstanta
+
+Kata kunci konstanta ini digunakan untuk menandai bagian dari kode yang mendefinisikan beberapa nilai yang digunakan pada program. atau kata penjelasan yang lebih gampang, keyword ini digunakan untuk menggantikan suatu kata. misalnya code makananfavorit=mfav hanya akan disingkat sebagai mfav. daripada panjang-panjang dan cape nulis kan?
+
+4. Domain 
+
+Kata kunci ini digunakan untuk menandai bagian menyatakan domain yang akan digunakan dalam kode. Ada banyak variasi untuk sintaks deklarasi domain tersebut, dan mereka memenuhi semua jenis kemungkinan domain yang akan digunakan nanti dalam kode.
+
+5. Class Facts
+
+Ya, keyword ini sudah kita kenal sedari awal saat praktikum AI. Keyword ini menunjuk bagian, yang menyatakan fakta-fakta yang akan digunakan nanti dalam kode program. Setiap Bahkan dinyatakan dengan nama yang digunakan untuk menandakan fakta dan argumen yang digunakan untuk fakta masing-masing bersama dengan domain yang mereka argumen milik.
+
+6. Class Predicates
+
+Bagian ini berisi deklarasi predikat yang akan kemudian didefinisikan dalam bagian klausa kode. Sekali lagi, nama-nama yang akan digunakan untuk predikat ini bersama dengan argumen dan domain, dimana argumen milik, akan ditunjukkan di bagian ini.
+
+7. Clauses
+
+Dari semua bagian yang hadir dalam kode Visual Prolog, bagian ini adalah salah satu yang erat meniru program tradisional Prolog. Ini berisi definisi sebenarnya dari predikat sebelumnya dinyatakan. Dan akan ditemukan bahwa predikat yang digunakan di sini akan mengikuti sintaks sebagaimana dinyatakan di kelas predikat sebelumnya.
+
+8. Goal 
+
+Goal ini ya tujuan tentang apa yang mau dicari dan mau digapai.
+
+Masih banyak keyword-keyword yang lain yang bisa didapat walaupun tidak mudah jika kita searching dengan mencari sumber bahasa indonesia. namun, keyword-keyword diatas adalah keyword yang mungkin lebih familiar dan sering digunakan :)
